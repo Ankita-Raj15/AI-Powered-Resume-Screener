@@ -1,0 +1,16 @@
+Rahul Mehra  
+Email: rahul.ml@gmail.com | Phone: +91-9123456789  
+GitHub: github.com/rahulml
+
+Objective:  
+Machine Learning enthusiast focused on building scalable ML models and deploying solutions.
+
+Skills:  
+Python, TensorFlow, Flask, Scikit-learn, REST APIs
+
+Projects:  
+- Resume Matcher AI (Your project 😉)
+- Image Classification using CNNs
+
+Education:  
+B.Tech, KIIT University  

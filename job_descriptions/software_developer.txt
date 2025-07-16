@@ -1,0 +1,3 @@
+Job Title: Software Developer  
+Required Skills: Java, C++, Git, OOPs, Data Structures  
+Description: Seeking a Software Developer with strong programming skills in Java and C++. Candidate should be well-versed in Object-Oriented Programming (OOP), version control systems like Git, and have a good grasp of data structures and algorithms.

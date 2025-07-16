@@ -1,0 +1,3 @@
+Job Title: Android Developer  
+Required Skills: Java, Kotlin, Android Studio, Firebase, REST APIs  
+Description: We are hiring an Android Developer proficient in building native mobile apps using Java or Kotlin. Experience with Android Studio, Firebase integration, and REST API consumption is essential.

@@ -1,0 +1,16 @@
+Riya Sharma  
+Email: riya.ds@gmail.com | Phone: +91-9876543210  
+LinkedIn: linkedin.com/in/riyasharma
+
+Objective:  
+Aspiring Data Scientist with hands-on experience in machine learning and statistical modeling.
+
+Skills:  
+Python, Pandas, Scikit-learn, SQL, Tableau, NumPy
+
+Experience:  
+- Data Analyst Intern, TCS — Created predictive models on customer churn
+- Final Year Project: Diabetes Prediction using ML
+
+Education:  
+B.Tech in Computer Science, 2024  

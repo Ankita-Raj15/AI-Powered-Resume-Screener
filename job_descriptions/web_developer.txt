@@ -1,0 +1,3 @@
+Job Title: Web Developer  
+Required Skills: HTML, CSS, JavaScript, React, Node.js  
+Description: We are looking for a front-end web developer proficient in HTML, CSS, and JavaScript. React knowledge is a must. Familiarity with REST APIs, Node.js, and responsive design is desirable.

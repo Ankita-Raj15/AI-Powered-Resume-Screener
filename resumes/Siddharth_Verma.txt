@@ -1,0 +1,16 @@
+Siddharth Verma  
+Email: sidd.web@gmail.com  
+Portfolio: siddverma.dev
+
+Objective:  
+Creative Web Developer with experience in building responsive front-ends and APIs.
+
+Skills:  
+HTML, CSS, JavaScript, React, Tailwind CSS, Node.js
+
+Projects:  
+- Personal Portfolio Website  
+- Weather App using OpenWeather API
+
+Education:  
+B.Tech IT, 2023  

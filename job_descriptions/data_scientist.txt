@@ -1,0 +1,3 @@
+Job Title: Data Scientist  
+Required Skills: Python, SQL, Machine Learning, Pandas, Visualization  
+Description: We are seeking a Data Scientist who can work with structured and unstructured data, apply ML techniques, and build predictive models. Strong Python and SQL knowledge is required. Experience in data visualization and statistical analysis is preferred.

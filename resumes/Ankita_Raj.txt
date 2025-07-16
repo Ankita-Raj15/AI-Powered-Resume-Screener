@@ -1,0 +1,16 @@
+Ankita Raj  
+Email: ankita.dev@gmail.com | Phone: +91-9988776655  
+GitHub: github.com/ankitaraj-dev
+
+Objective:  
+Passionate Software Developer skilled in Java and C++ with strong DSA background.
+
+Skills:  
+Java, C++, OOP, Git, MySQL, Spring Boot
+
+Experience:  
+- Java Developer Intern @ Infosys  
+- Built Online Bookstore App (Backend with Spring Boot)
+
+Education:  
+B.Tech CSE, KIIT  
