@@ -6,3 +6,4 @@ numpy
 nltk
 joblib
 matplotlib
+sentence-transformers
