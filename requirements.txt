@@ -1,0 +1,8 @@
+streamlit
+scikit-learn
+pandas
+PyMuPDF
+numpy
+nltk
+joblib
+matplotlib
